@@ -1,0 +1,6 @@
+{
+  "name": "RTD Golden Transfer Atlas",
+  "description": "Interactive Branching Trunk Gantt infographic comparing RTD Denver W Line, Route 17, and Mines Ore Cart Tungsten transfers to 19th & Illinois St in Golden across Weekday and Weekend schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
